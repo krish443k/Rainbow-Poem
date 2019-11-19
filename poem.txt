@@ -5,6 +5,7 @@ green
 pinkish
 pink
 brown
+indigo
 red
 violet
 and unicorn
